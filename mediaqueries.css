@@ -1,0 +1,162 @@
+@media only screen and (max-width: 1060px) {
+	
+	.centered-wrapper {
+		padding: 0 30px;
+	}
+	
+}
+
+
+@media only screen and (max-width: 760px) {
+
+
+	#header {
+		padding: 30px 0;
+	}
+	
+	#header .portrait {
+		width: auto;
+		max-width: 220px;
+		float: none;
+		margin: 0 auto 2em auto;
+	}
+	
+	h1, #header p.career, #header p.location {
+		text-align: center;
+		width: auto;
+		float: none;
+	}
+	
+	.content .about {
+		font-size: 2.1em;
+	}	
+
+}
+
+
+@media only screen and (max-width: 650px) {
+	
+	.one-half {
+		float: none;
+		width: auto;
+		margin: 0;
+	}
+	
+	.contact-trigger {
+		font-size: 2.8em;
+	}
+	
+}
+
+
+@media only screen and (max-width: 480px) {
+
+	body {
+		font-size: 56.25%;
+	}
+
+	.centered-wrapper {
+		padding: 0 15px;
+	}
+	
+	.topright-elements {
+		top: 20px;
+		right: 65px;
+	}
+	
+	.topright-elements a {
+		padding: 2px 10px 0 10px;
+	}
+	
+	.nav-trigger.active {
+		right: 270px;
+	}
+	
+	#header .portrait {
+		margin: 2em auto;
+	}
+	
+	#wrapper.moved {
+		right: 250px;
+	}
+	
+	.navigation {
+		width: 250px;
+		right: -250px;
+	}
+	
+	.section {
+		margin-top: 100px;
+	}
+	
+	h2 {
+		margin-bottom: 0.8em;
+		padding-top: 20px;
+	}
+	
+	.date {
+		float: none;
+		width: auto;
+		text-align: left;
+		margin-bottom: 0.6em;
+	}
+	
+	h3.position, p.company, p.jobdescription {
+		margin-left: 0;
+	}
+	
+	.content .about {
+		font-size: 1.9em;
+	}	
+	
+	.contact-trigger {
+		padding: 20px;
+		font-size: 2.2em;
+	}
+	
+	
+	.lightbox.visible {
+		top: 0;
+		left: 0;
+		right: 0;
+		bottom: 0;
+		transform: none;
+		width: 100%;
+		margin: 0;
+		max-height: none;
+	}
+
+}
+
+
+
+
+@media only screen and (max-width: 340px) {
+
+
+	.networks {
+		width: 288px;
+	}
+	
+	.networks li {
+		margin-left: 24px;
+	}
+	
+
+}
+
+
+
+
+
+@media only screen and (max-height: 560px) {
+
+	.lightbox.visible {
+		top: 0;
+		bottom: 0;
+	}
+	
+}
+
+
+
