@@ -50,7 +50,7 @@
 			<div class="centered-wrapper cf">
 			
 				<section class="section cf" id="about">
-					<p class="about">Me llamo Daniel, tengo 22 años y estoy por terminar mis estudios próximamente en la Universidad de las Américas, Puebla.<br>Me identifico mucho con mi carrera y todas las cosas relacionadas con nueva tecnología; Profesionalmente me interesa desarrollarme en Desarrollo Web.<br>Me considero una persona optimista ya que siempre busco la manera de cumplir mis metas y objetivos ya sea en el ambiente personal o profesional.</p>					
+					<p class="about">Me llamo Daniel, tengo 22 años y soy Ingeniero en Sistemas y TI.<br>Actualmente, trabajo como Desarrollador Web en <a href="http://www.occident.se">Occident AB</a>.<br>Me identifico mucho con mi carrera y todas las cosas relacionadas con nueva tecnología; Profesionalmente me enfoco en el Desarrollo Web.<br>Me considero una persona optimista ya que siempre busco la manera de cumplir mis metas y objetivos ya sea en el ambiente personal o profesional.</p>					
 				</section>
 				
 				
@@ -59,6 +59,13 @@
 					
 					<div class="experience">
 					
+						<div class="row cf">
+							<p class="date">Ene 2015 - Actualmente</p>
+							<h3 class="position">Desarrollador Web</h3>
+							<p class="company">Occident AB <span>(Estocolmo, Suecia)</span></p>
+							<p class="jobdescription">Desarrollador Web. Trabajando con Wordpress y ASP.NET VB.</p>
+						</div>
+						
 						<div class="row cf">
 							<p class="date">Jun 2014 - July 2014</p>
 							<h3 class="position">Motores de Software en Sistemas de Aviación</h3>
