@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title> CV Daniel Treviño </title>
+	<title>Daniel Treviño </title>
 	<meta charset="utf-8" />
 	<meta name="viewport" content="initial scale=1, width=device-width, minimum-scale=1, maximum-scale=1" /> <!-- Tell the browser it's gonna be responsive (and allow no zoom) --> 
 	
@@ -199,7 +199,7 @@
 				<li class="linkedin"><a href="https://se.linkedin.com/in/danieltrevino92" target="_blank"></a></li>
 			</ul>
 		
-			<p>Copyright &copy; 2014 <a href="/" title="danieltrevino">danieltrevino.mx</a></p>
+			<p>Copyright &copy; 2015 <a href="/" title="danieltrevino">danieltrevino.se</a></p>
 		</footer>
 	
 	</div> <!-- END wrapper -->
