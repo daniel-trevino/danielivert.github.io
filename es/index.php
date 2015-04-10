@@ -41,7 +41,7 @@
 				</div>
 				<h1><span class="firstname">Daniel</span><br>Treviño García</h1>
 				<p class="career">Sistemas y Tecnologías de Información</p>
-				<p class="location">Puebla, México</p>
+				<p class="location">Uppsala, Suecia</p>
 			</div>
 		</header>
 		
@@ -50,7 +50,7 @@
 			<div class="centered-wrapper cf">
 			
 				<section class="section cf" id="about">
-					<p class="about">Me llamo Daniel, tengo 22 años y soy Ingeniero en Sistemas y TI.<br>Actualmente, trabajo como Desarrollador Web en <a href="http://www.occident.se">Occident AB</a>.<br>Me identifico mucho con mi carrera y todas las cosas relacionadas con nueva tecnología; Profesionalmente me enfoco en el Desarrollo Web.<br>Me considero una persona optimista ya que siempre busco la manera de cumplir mis metas y objetivos ya sea en el ambiente personal o profesional.</p>					
+					<p class="about">Me llamo Daniel, tengo 23 años y soy Ingeniero en Sistemas y TI.<br>Actualmente, trabajo como Desarrollador Web en <a href="http://www.occident.se">Occident AB</a>.<br>Me identifico mucho con mi carrera y todas las cosas relacionadas con nueva tecnología; Profesionalmente me enfoco en el Desarrollo Web.<br>Me considero una persona optimista ya que siempre busco la manera de cumplir mis metas y objetivos ya sea en el ambiente personal o profesional.</p>					
 				</section>
 				
 				
