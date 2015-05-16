@@ -1,9 +1,5 @@
 $(document).ready(function() {
 	
-	
-
-	
-	
 	$('h3.position').on('click', function() {
 		$(this).siblings('.jobdescription').slideToggle('fast');
 		$(this).toggleClass('active');
